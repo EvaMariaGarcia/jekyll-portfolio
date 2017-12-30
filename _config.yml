@@ -1,0 +1,22 @@
+# Site settings
+title: Portfolio
+email: egarcia9889@gmail.com
+url: http://127.0.0.1:4000/
+description: "My Portfolio Website"
+baseurl: 
+
+# Footer settings
+footer: Designed and developed by Eva Garcia | Copyright 2017 
+
+# Social networks usernames 
+social:
+  - title: Instagram
+    url: https://#
+  - title: Github
+    url: https://#
+  - title: Twitter
+    url: https://#
+
+# Build settings
+markdown: kramdown
+permalink: pretty
