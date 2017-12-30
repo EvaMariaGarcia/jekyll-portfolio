@@ -11,11 +11,11 @@ footer: Designed and developed by Eva Garcia | Copyright 2017
 # Social networks usernames 
 social:
   - title: Instagram
-    url: https://#
+    url: https://www.instagram.com/design_evamariagarcia/
   - title: Github
-    url: https://#
-  - title: Twitter
-    url: https://#
+    url: https://github.com/EvaMariaGarcia
+  - title: Tumblr
+    url: https://evamariagarcia-blog.tumblr.com
 
 # Build settings
 markdown: kramdown
